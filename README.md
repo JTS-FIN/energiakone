@@ -1,10 +1,10 @@
 # Energiakone
 
-Interaktiivinen sovellus, jolla voi hahmotella miten Suomen energiantuotantoa voisi uudistaa. Näyttää tämän hetkiset voimalat ja tuotantotavat, ja antaa mahdollisuuden nähdä miten tiettyjen energianmuotojen muutokset vaikuttavat kokonaistilanteeseen.
+Interaktiivinen sovellus, jolla voi hahmotella miten Suomen energiantuotantoa voisi uudistaa. NÃ¤yttÃ¤Ã¤ tÃ¤mÃ¤n hetkiset voimalat ja tuotantotavat, ja antaa mahdollisuuden nÃ¤hdÃ¤ miten tiettyjen energianmuotojen muutokset vaikuttavat kokonaistilanteeseen.
 
-## Tietolähteet
-[Voimalaitosrekisteri](https://energiavirasto.fi/toimitusvarmuus) josta muutettu kolumnien nimet, ja muutettu [jsoniksi täältä löytyvällä työkalulla](http://www.convertcsv.com/csv-to-json.htm).
+## Tietolï¿½hteet
+[Voimalaitosrekisteri](https://energiavirasto.fi/toimitusvarmuus) josta muutettu kolumnien nimet, ja muutettu [jsoniksi tÃ¤Ã¤ltÃ¤ lÃ¶ytyvÃ¤llÃ¤ tyÃ¶kalulla](http://www.convertcsv.com/csv-to-json.htm).
 
-## Tekijänoikeudet
+## Tekijï¿½noikeudet
 
 [Karttakuva on public domain](https://upload.wikimedia.org/wikipedia/fi/6/62/Suomi.karttapohja.svg).
